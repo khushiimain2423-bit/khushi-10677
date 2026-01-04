@@ -33,7 +33,7 @@ The project was created as part of an end‑semester mini project to:
 ## 📈 Output Screenshot
 Below is an example run of the program:
 
-![Output Screenshot]("Screenshot 2026-01-04 160239.png")
+![Output Screenshot]("Screenshot%2026-01-04 160239.png")
 
 ---
 
